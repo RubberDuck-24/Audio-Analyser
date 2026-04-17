@@ -20,7 +20,7 @@ Developed as a bachelor project at Ingeniørhøjskolen, Aarhus University.
 - **24-bit / 192 kHz** dual-channel synchronous capture
 
 ## System Architecture
-![System Architecture](docs/pictures/BlockDiagram.png)
+![System Architecture](docs/Pictures/BlockDiagram.png)
 The signal chain is split into two branches:
 - **Generator path**: PC → Teensy → DAC → Filter → DUT
 - **Measurement path**: DUT → Attenuator → ADC → Teensy → PC
