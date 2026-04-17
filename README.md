@@ -37,9 +37,9 @@ The signal chain is split into two branches:
 ## Repository Structure
 
 Audio-Analyser/
-- docs/          # Documentation, reports, measurements and pictures
-- firmware/      # Teensy 4.1 firmware (PlatformIO / Arduino framework)
-- software/      # PC-side Python application (FFT GUI, logging, reporting)
+- docs: Documentation, reports, measurements and pictures
+- firmware: Teensy 4.1 firmware (PlatformIO / Arduino framework)
+- software: PC-side Python application (FFT GUI, logging, reporting)
 
 ## Measurement Standards
 
