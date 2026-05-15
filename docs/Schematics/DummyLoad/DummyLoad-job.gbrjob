@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "10.0.1"
     },
-    "CreationDate": "2026-04-21T20:21:27+02:00"
+    "CreationDate": "2026-04-24T08:56:05+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "DummyLoad",
       "GUID": "44756d6d-794c-46f6-9164-2e6b69636164",
-      "Revision": "rev?"
+      "Revision": "V1.0"
     },
     "Size": {
       "X": 218.05,

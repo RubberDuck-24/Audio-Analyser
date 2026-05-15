@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "34f2e396-ef63-498b-a2a3-d94572dfb9cf")
+	(paper "A2")
+	(title_block
+		(title "DAC Circuit")
+		(date "2026-xx-xx")
+		(rev "V1.0")
+		(company "Astatine")
+	)
+	(lib_symbols)
+)

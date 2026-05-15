@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "DKA15C") (type "KiCad") (uri "C:/Users/cr/Documents/Projects/Audio-Analyser/docs/Parts/DKA15C/DKA15C.pretty") (options "") (descr ""))
+)

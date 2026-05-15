@@ -1,0 +1,248 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "EXB-38V103JV" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "RN" (id 0) (at -7.62 10.795 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "EXB-38V103JV" (id 1) (at -7.62 -12.7 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "EXB-38V103JV:RESCAXS80P320X160X60-8N" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "Panasonic" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\n                        \n                            10k Ohm ±5% 62.5mW Power Per Element Isolated 4 Resistor Network/Array ±200ppm/°C 1206 (3216 Metric), Convex, Long Side Terminals\n                        \n" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "1206 Panasonic" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/EXB-38V103JV/Panasonic+Electronic+Components/view-part/?ref=eda" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "IPC 7351B" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/EXB-38V103JV/Panasonic+Electronic+Components/view-part/?ref=snap" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "EXB-38V103JV" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=48689&manufacturer=Panasonic&part_name=EXB-38V103JV&search_term=exb-38v103jv" (id 12) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "In Stock" (id 13) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "Panasonic" (id 14) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "EXB-38V103JV_0_0"
+      (polyline
+        (pts (xy -5.08 7.62) (xy -4.445 9.525)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -4.445 9.525) (xy -3.175 5.715)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.175 5.715) (xy -1.905 9.525)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.905 9.525) (xy -0.635 5.715)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -0.635 5.715) (xy 0.635 9.525)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.635 9.525) (xy 1.905 5.715)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.905 5.715) (xy 3.175 9.525)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 3.175 9.525) (xy 4.445 5.715)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.445 5.715) (xy 5.08 7.62)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -5.08 2.54) (xy -4.445 4.445)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -4.445 4.445) (xy -3.175 0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.175 0.635) (xy -1.905 4.445)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.905 4.445) (xy -0.635 0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -0.635 0.635) (xy 0.635 4.445)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.635 4.445) (xy 1.905 0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.905 0.635) (xy 3.175 4.445)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 3.175 4.445) (xy 4.445 0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.445 0.635) (xy 5.08 2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -5.08 -2.54) (xy -4.445 -0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -4.445 -0.635) (xy -3.175 -4.445)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.175 -4.445) (xy -1.905 -0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.905 -0.635) (xy -0.635 -4.445)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -0.635 -4.445) (xy 0.635 -0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.635 -0.635) (xy 1.905 -4.445)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.905 -4.445) (xy 3.175 -0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 3.175 -0.635) (xy 4.445 -4.445)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.445 -4.445) (xy 5.08 -2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -5.08 -7.62) (xy -4.445 -5.715)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -4.445 -5.715) (xy -3.175 -9.525)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.175 -9.525) (xy -1.905 -5.715)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.905 -5.715) (xy -0.635 -9.525)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -0.635 -9.525) (xy 0.635 -5.715)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.635 -5.715) (xy 1.905 -9.525)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.905 -9.525) (xy 3.175 -5.715)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 3.175 -5.715) (xy 4.445 -9.525)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.445 -9.525) (xy 5.08 -7.62)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -5.08 7.62) (xy -7.62 7.62)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -5.08 2.54) (xy -7.62 2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -5.08 -2.54) (xy -7.62 -2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -5.08 -7.62) (xy -7.62 -7.62)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 5.08 -7.62) (xy 7.62 -7.62)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 5.08 -2.54) (xy 7.62 -2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 5.08 2.54) (xy 7.62 2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 5.08 7.62) (xy 7.62 7.62)) (stroke (width 0.254))
+      )
+      (rectangle (start -7.62 -10.16) (end 7.62 10.16)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin passive line (at -10.16 -7.62 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 -2.54 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 2.54 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 7.62 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 10.16 -2.54 180.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 10.16 -7.62 180.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 10.16 7.62 180.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 10.16 2.54 180.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

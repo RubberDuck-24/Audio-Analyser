@@ -527,7 +527,7 @@
       "specctra_dsn": "",
       "vrml": ""
     },
-    "page_layout_descr_file": ""
+    "page_layout_descr_file": "DummyLoad"
   },
   "schematic": {
     "annotate_start_num": 0,

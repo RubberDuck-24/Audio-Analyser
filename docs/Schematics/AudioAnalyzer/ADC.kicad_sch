@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "9f2f2f42-3a46-4b74-9577-c51bb572700a")
+	(paper "A3")
+	(title_block
+		(title "ADC Circuit")
+		(date "2026-xx-xx")
+		(rev "V1.0")
+		(company "Astatine")
+	)
+	(lib_symbols)
+)

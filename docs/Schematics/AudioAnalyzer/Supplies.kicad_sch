@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "b4d72452-7a92-43de-9875-a30dc3a85958")
+	(paper "A2")
+	(title_block
+		(title "Supplies and Extra")
+		(date "2026-xx-xx")
+		(rev "V1.0")
+		(company "Astatine")
+	)
+	(lib_symbols)
+)
